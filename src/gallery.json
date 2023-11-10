@@ -3,13 +3,13 @@
     "picture": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Mona_Lisa.jpg",
     "title": "Mona Lisa",
     "year": "1503",
-    "artist": "Leonardo de Vinci"
+    "artist": "Leonardo da Vinci"
  
 },
 {
     "id": 2,
     "picture": "https://lh3.googleusercontent.com/J0sw0IiqP2F4gavYnI-vUa5IBgHiHy42lohgm-qq1vuygUX0HQgylVSV1ZdDTV5XIg=s1200",
-    "title": "Girl with a Pearl Earing",
+    "title": "Girl with a Pearl Earring",
     "year": "1665",
     "artist": "Jhannes Vermeer"
 
