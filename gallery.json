@@ -3,6 +3,21 @@
     "picture": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Mona_Lisa.jpg",
     "title": "Mona Lisa",
     "year": "1503",
-    "artist": "Leonardo de Vinci",
+    "artist": "Leonardo de Vinci"
  
+},
+{
+    "id": 2,
+    "picture": "https://lh3.googleusercontent.com/J0sw0IiqP2F4gavYnI-vUa5IBgHiHy42lohgm-qq1vuygUX0HQgylVSV1ZdDTV5XIg=s1200",
+    "title": "Girl with a Pearl Earing",
+    "year": "1665",
+    "artist": "Jhannes Vermeer"
+
+},
+{
+    "id": 3,
+    "picture": "https://lh3.googleusercontent.com/Pd2nCUHUz4Ruc76LRh1-H0Dldl04hWSXw8P9uCYZ4TIWP7yNPArIgWlHZrf1qT9T=s1200",
+    "title": "The Starry Night",
+    "year": "1889",
+    "artist": "Vincent van Gogh"
 }]
