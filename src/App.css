@@ -4,11 +4,15 @@
     color: white;
 }
 
-body {
+#root {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.artcard-conatiner {
+    flex: 1;
 }
 
 header h1 {

@@ -16,7 +16,6 @@ function App() {
       <Header />
       <Gallery artworkData={artworkData} />
       <Form />
-      
     </>
   );
 }
