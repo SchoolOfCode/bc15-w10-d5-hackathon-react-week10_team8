@@ -20,4 +20,27 @@
     "title": "The Starry Night",
     "year": "1889",
     "artist": "Vincent van Gogh"
-}]
+},
+
+{
+    "id": 4,
+    "picture": "https://lh3.googleusercontent.com/7aJyS2Nd7c8oCJKmfXlmM-rnSnLMY0ykfBFOP8N3OjV6M4hbhS_NEg8tH6SJDfvl=s1200",
+    "title": "The Kiss",
+    "year": "1908",
+    "artist": "Gustav Klimt"
+},
+{
+    "id": 5,
+    "picture": "https://uploads6.wikiart.org/images/salvador-dali/the-persistence-of-memory-1931.jpg",
+    "title": "The Persistence of Memory",
+    "year": "1931",
+    "artist": "Salvador Dalí "
+},
+{
+    "id": 6,
+    "picture": "https://d16kd6gzalkogb.cloudfront.net/magazine_images/Katsushika-Hokusai-The-Wave-courtesy-of-images.metmuseum.org_-1.jpg",
+    "title": "The Great Wave off Kanagawa",
+    "year": "1831",
+    "artist": "Hokusai"
+}
+]
