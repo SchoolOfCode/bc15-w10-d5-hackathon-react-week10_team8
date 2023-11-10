@@ -1,1 +1,35 @@
+* {
+    margin: 0;
+    background: #282D35;
+    color: white;
+}
 
+header h1 {
+    display: flex;
+    justify-content: center;
+    
+padding: 10px 0px
+}
+
+header p {
+    display: flex;
+    justify-content: center;
+   padding-bottom: 40px;
+}
+
+.artcard-conatiner{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    text-align: center;
+    gap: 50px;
+
+}
+
+.image {
+    max-height: 150px;
+
+}
+
+footer {
+    background-color: black;
+}
